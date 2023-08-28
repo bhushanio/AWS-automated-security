@@ -1,6 +1,6 @@
 import boto3
 
-ec2 = boto3.resource(‘ec2’)
+ec2 = boto3.resource('ec2')
 
 #Provide security group id in which the intruder will be moved after performing any malicious activity
 isolated_sg = '<instance_id_here>'
