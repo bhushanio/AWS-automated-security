@@ -1,4 +1,4 @@
-# AWS-IntelliSec
+# AWS-automated-security
 AWS Threat detection automated real-time prevention management.
 
 GuardDuty, an AWS-managed threat detection service, is highly regarded by customers for fortifying their AWS infrastructure and its automated response capabilities.
